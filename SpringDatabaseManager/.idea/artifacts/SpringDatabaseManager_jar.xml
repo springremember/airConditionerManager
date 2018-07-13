@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpringDatabaseManager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringDatabaseManager_jar</output-path>
+    <root id="archive" name="SpringDatabaseManager.jar">
+      <element id="module-output" name="SpringDatabaseManager" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/lib/mariadb-java-client-2.2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/lib/junit-4.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
